@@ -1,2 +1,2 @@
-# GBA-4-Watch
-GameBoy emulator for the Apple Watch ~ WatchOS 3.0+
+# GBA 4 Watch
+Gameboy Emulator for the Apple Watch ~ WatchOS 3.0+
